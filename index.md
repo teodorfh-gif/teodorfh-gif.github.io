@@ -8,3 +8,4 @@ GitHub: [teodorfh-gif/teodorfh-gif.github.io](https://github.com/teodorfh-gif/te
 
 - Session 1: this page.
 - Session 2: [Using an MCP server](using-an-mcp-server.html).
+https://github.com/Emilbe962/economics-study-coach/blob/main/design.md
